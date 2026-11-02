@@ -1,0 +1,6 @@
+{
+  "name": "CelebrateMe - Personalised Birthday Surprise",
+  "description": "Create and share interactive birthday surprises with animated envelopes, interactive cakes, balloons to pop, handwritten notes, music box tunes, and a wishes wall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
